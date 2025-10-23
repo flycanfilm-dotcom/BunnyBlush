@@ -47,6 +47,6 @@ export const PRODUCTS: Product[] = [
     id: 8,
     name: 'Pixie Dust Setting Mist',
     description: 'Lock in your look with a touch of magic. This micro-fine mist sets your makeup for all-day wear while imparting a subtle, ethereal shimmer. Infused with botanical extracts to hydrate and refresh your skin anytime, anywhere.',
-    imageUrl: 'https://source.unsplash.com/three-different-shades-of-foundation-on-a-marble-table-Tptsvxr5yUc',
+    imageUrl: 'https://unsplash.com/photos/three-different-shades-of-foundation-on-a-marble-table-Tptsvxr5yUc',
   },
 ];
